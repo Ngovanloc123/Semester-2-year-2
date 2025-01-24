@@ -1,0 +1,14 @@
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\bin\Debug\net8.0\Nh12.exe
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\bin\Debug\net8.0\Nh12.deps.json
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\bin\Debug\net8.0\Nh12.runtimeconfig.json
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\bin\Debug\net8.0\Nh12.dll
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\bin\Debug\net8.0\Nh12.pdb
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.AssemblyInfoInputs.cache
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.AssemblyInfo.cs
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.csproj.CoreCompileInputs.cache
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.dll
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\refint\Nh12.dll
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.pdb
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\Nh12.genruntimeconfig.cache
+D:\LocNgo\University\Semester 2 year 2\.NET (2.5)\Nh12\obj\Debug\net8.0\ref\Nh12.dll
